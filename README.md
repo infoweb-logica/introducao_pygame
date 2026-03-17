@@ -35,3 +35,17 @@ Repositório com códigos de exemplo de uso do PyGame.
 - Paint: [GitHub](https://github.com/Isaque-Ias/Lino) [Vídeo](https://www.youtube.com/watch?v=bwVFfxe6Q9Y)
 - Telu (Terráqueo lunático): [GitHub](https://github.com/Araraaaaaaaa/telu-pygame---..022025) [Vídeo](https://youtu.be/iCMR41gym9Q)
 - Tower Milson: [GitHub](https://github.com/Deyvidjh30/Tower-Milson) [Vídeo](https://www.youtube.com/watch?v=hDVEYLMmQIk)
+
+### 2019
+- [Arkanoid](https://github.com/rafael52468/2019-games)
+- [Barbie Power](https://github.com/vivsgoms/2019-games/)
+- [Cat Happy](https://github.com/mariana-raquel/2019-games/)
+- [Catch the Frog!](https://github.com/numb0y/2019-games/)
+- [Doll dressup](https://github.com/luarapaixao/2019-games)
+- [Flappy Ship](https://github.com/lauraemily/2019-games/)
+- [Jogo da cobrinha](https://github.com/JullyViviane/2019-games)
+- [Jogo da cobrinha](https://github.com/triszferreira/2019-games)
+- [Jogo da velha](https://github.com/gabrielfontineli/2019-games)
+- [Obamium](https://github.com/danielsantana01/2019-games)
+- [PingPong](https://github.com/heitorsouza03/2019-games)
+- [Spartan Ship](https://github.com/Aris402/2019-games)
