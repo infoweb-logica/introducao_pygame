@@ -1,4 +1,4 @@
-# Introdução ao PyGame
+<img width="1282" height="882" alt="image" src="https://github.com/user-attachments/assets/0aa84980-d321-4018-83fe-d7e4ac8ccd8f" /># Introdução ao PyGame
 
 Repositório com códigos de exemplo de uso do PyGame.
 
@@ -51,7 +51,7 @@ Repositório com códigos de exemplo de uso do PyGame.
 - Overtaker: [Github](https://github.com/dilepego/overtaker)
 - Pastik: [Github](https://github.com/BeatrizMariaPessoa/Patisk)
 - Snake crazy: [Github](https://github.com/davidmtg/SNAKECRAZY)
-- Space IF: [Github](https://github.com/Olga-Cortez/Space_IF)
+- Space IF: [Github Olga](https://github.com/Olga-Cortez/Space_IF) [Github Rafael](https://github.com/rafaelriccodc/space-if)
 - Spritake: [Github](https://github.com/sakilfe/spritake)
 - SteX: [Github](https://github.com/lucas-albuq/SteX)
 - Tuif: [Github](https://github.com/micaaell/TUIF2022)
