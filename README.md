@@ -1,6 +1,11 @@
-<img width="1282" height="882" alt="image" src="https://github.com/user-attachments/assets/0aa84980-d321-4018-83fe-d7e4ac8ccd8f" /># Introdução ao PyGame
+# PyGame
 
 Repositório com códigos de exemplo de uso do PyGame.
+
+## Projetos exemplos
+FIXME
+
+---
 
 ## Projetos desenvolvidos por alunos
 ### 2025
